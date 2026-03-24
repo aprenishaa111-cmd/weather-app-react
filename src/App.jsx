@@ -33,7 +33,7 @@ export default function App() {
       flexDirection: 'column', 
       alignItems: 'center', 
       justifyContent: 'center',
-      background: 'linear-gradient(to bottom, #68aeeb 0%, #00f2fe 100%)',
+      background: 'linear-gradient(to bottom, #4facfe 0%, #00f2fe 100%)',
       fontFamily: 'Arial, sans-serif',
       color: 'white'
     }}>
